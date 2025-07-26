@@ -1,4 +1,4 @@
-site_name:  SASP. U1. Entendre la sostenibilitat en clau TIC
+site_name: SASP. U2. Reptes ambientals i socials del sector TIC
 
 theme: 
   name: material
@@ -34,9 +34,8 @@ plugins:
 
 nav:
   - "Inici": 'index.md'
-  - "1. Què és la sostenibilitat i per què importa en les TIC?" : '1.sostenibilitat_tic.md'
-  - "2. Marcs internacionals per al desenvolupament sostenible" : '2.marcs_internacionals.md'
-  - "3. Els aspectes ASG (Ambientals, Socials i de Governança) en empreses TIC" : '3.asg.md'
-  - "4. L'impacte de les TIC sobre el planeta" : '4.impacte.md'
-  - "5. Mesurar l'impacte ambiental en TIC" : '5.mesura_impacte.md'
-  - "6. Introducció a les accions de millora i compensació" : '6.accions.md'
+  - "1. Consum energètic dels equips, CPDs i xarxes": '1.consum_energetic.md'
+  - "2. Residus electrònics (e-waste): impactes i regulació": '2.residus.md'
+  - "3. Bretxa digital i desigualtats socials en l'accés i ús de la tecnologia": '3.bretxa_digital.md'
+  - "4. Ciberètica, drets digitals i sostenibilitat": '4.ciberetica.md'
+  - "5. Mesura i regulació dels impactes socials i ambientals en les TIC": '5.mesura.md'

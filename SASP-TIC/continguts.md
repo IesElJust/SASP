@@ -14,8 +14,7 @@
 * Consum energètic dels equips, CPDs i xarxes
 * Residus electrònics (e-waste): impactes i regulació
 * Bretxa digital i desigualtats socials en l'accés i ús de la tecnologia
-
-Ciberètica, drets digitals i sostenibilitat
+* Ciberètica, drets digitals i sostenibilitat
 
 **RAs Relacionats**: RA2 – RA3
 
@@ -53,3 +52,4 @@ Ciberètica, drets digitals i sostenibilitat
 * Estudi de casos reals: Google, Telefónica, Startups sostenibles
 
 **RAs Relacionats**: RA6
+
