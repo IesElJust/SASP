@@ -1,0 +1,41 @@
+site_name: SASP. U3. Els ODS en el disseny i ús de tecnologies
+
+theme: 
+  name: material
+  logo: img/logo.svg
+  palette:
+    primary: 'green'
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - attr_list           # Permet incorporar atributs a les imatges { width=100px }
+  - md_in_html # Junt a attr_list per afegir peus a les imatges
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - toc:
+      baselevel: 2
+      toc_depth: 3
+      title: Continguts
+
+
+plugins:
+  - search
+  - glightbox   # Per vore les imatges en gran quan fas clic en elles.
+
+
+nav:
+  - "Inici": 'index.md'
+  - "1. Economia lineal vs. circular en el sector tecnològic": '1.economia_circular.md'
+  - "2. Cicle de vida del maquinari i del software": '2.cicle_vida.md'
+  - "3. Ecodisseny de serveis i aplicacions digitals" : '3.ecodisseny.md'
+  - "4. Casos pràctics: reutilització, virtualització, optimització" : '4.casos_practics.md'
+
