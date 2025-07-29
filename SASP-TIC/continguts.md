@@ -32,19 +32,11 @@
 * Cicle de vida del maquinari i del software
 * Ecodisseny de serveis i aplicacions digitals
 * Casos pràctics: reutilització, virtualització, optimització
+* 
 
 **RAs Relacionats**: RA4 – RA5
 
-## U5. Desenvolupament i consum responsable de recursos TIC
-
-* Estratègies per a una producció i consum responsable
-* Minimització de la petjada de carboni digital (hosting verd, ecoeficiència)
-* Compres TIC sostenibles: criteris i bones pràctiques
-* Plataformes per al consum conscient i col·laboratiu
-
-**RAs Relacionats**: RA4 – RA5
-
-## U6. Plans de sostenibilitat en empreses TIC
+## U5. Plans de sostenibilitat en empreses TIC
 
 * Què és un pla de sostenibilitat? Estructura i fases
 * Identificació de grups d'interès en entorns TIC

@@ -1,4 +1,4 @@
-site_name: SASP. U4. Economia Circular i Gestió del Cicle de Vida TIC
+site_name: SASP. U5. Plans de sostenibilitat en empreses TIC
 
 theme: 
   name: material
@@ -31,9 +31,12 @@ plugins:
   - search
   - glightbox   # Per vore les imatges en gran quan fas clic en elles.
 
+
 nav:
   - "Inici": 'index.md'
-  - "1. Economia lineal vs. circular en el sector tecnològic": '1.economia_circular.md'
-  - "2. Cicle de vida del maquinari i del software": '2.cicle_vida.md'
-  - "3. Ecodisseny de serveis i aplicacions digitals" : '3.ecodisseny.md'
-  - "4. Casos pràctics: reutilització, virtualització, optimització" : '4.casos_practics.md'
+  - "Què és un pla de sostenibilitat? Estructura i fases" : '1.pla_sostenibilitat.md'
+  - "Identificació de grups d'interès en entorns TIC" : '2.grups_interes.md'
+  - "Mesura del rendiment sostenible (KPIs, informes, ISO 14001": '3.mesura_rendiment.md'
+  - "Estudi de casos reals": '4.exemples.md'
+  
+

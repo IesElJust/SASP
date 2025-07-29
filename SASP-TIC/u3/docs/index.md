@@ -5,7 +5,7 @@
 * **RA 3**. Estableix la aplicació de criteris de sostenibilitat en el desenvolupament professional i personal, identificant els elements necessaris.
 * **RA 6**. Analitza un pla de sostenibilitat de l'empresa, identificant els grups d'interès, els aspectes ASG materials i justificat accions per la seva gestió i medició.
 
-### Criteris d’Avaluació (CAs) vinculats
+### Criteris d'Avaluació (CAs) vinculats
 
 **RA 3**
 
@@ -15,7 +15,7 @@
 
 **RA 6**
 
-* CA6a: Identificar els grups d’interès en el sector TIC.
+* CA6a: Identificar els grups d'interès en el sector TIC.
 * CA6b: Analitzar els aspectes ASG materials i la seva relació amb els ODS.
 * CA6c: Proposar accions per a la gestió i medició de la sostenibilitat en una empresa TIC.
 
@@ -29,10 +29,10 @@
     * Què és l'ecodisseny en el context TIC?
     * Bones pràctiques en el disseny de software i aplicacions sostenibles
     * Estratègies per reduir la petjada ecològica del software
-    * Avaluació de l’impacte de les aplicacions en termes d’eficiència energètica i recursos
+    * Avaluació de l'impacte de les aplicacions en termes d'eficiència energètica i recursos
 3. [TIC i impacte positiu: accessibilitat, educació, salut, participació](3.impacte_positiu.md)
-    * Aplicacions TIC per millorar l’accés a l’educació i la salut (ex. telemedicina, educació en línia)
+    * Aplicacions TIC per millorar l'accés a l'educació i la salut (ex. telemedicina, educació en línia)
     * Eines digitals per promoure la participació ciutadana i la democràcia digital
-    * Com les TIC poden millorar l’accessibilitat per a persones amb discapacitats (ex. tecnologia d'assistència)
-    * Projectes tecnològics amb impacte social positiu (ex. TIC per a l’agenda 2030)
+    * Com les TIC poden millorar l'accessibilitat per a persones amb discapacitats (ex. tecnologia d'assistència)
+    * Projectes tecnològics amb impacte social positiu (ex. TIC per a l'agenda 2030)
 
