@@ -32,8 +32,7 @@
 * Cicle de vida del maquinari i del software
 * Ecodisseny de serveis i aplicacions digitals
 * Casos pràctics: reutilització, virtualització, optimització
-* 
-
+  
 **RAs Relacionats**: RA4 – RA5
 
 ## [U5. Plans de sostenibilitat en empreses TIC](u5)
