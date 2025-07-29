@@ -9,7 +9,7 @@
 
 **RAs Relacionats**: RA1 – RA2
 
-## U2. Reptes ambientals i socials del sector TIC
+## [U2. Reptes ambientals i socials del sector TIC](u2)
 
 * Consum energètic dels equips, CPDs i xarxes
 * Residus electrònics (e-waste): impactes i regulació
@@ -18,7 +18,7 @@
 
 **RAs Relacionats**: RA2 – RA3
 
-## U3. Els ODS en el disseny i ús de tecnologies
+## [U3. Els ODS en el disseny i ús de tecnologies](u3)
 
 * Els ODS rellevants per al sector TIC
 * Disseny de software i aplicacions amb criteris ètics i sostenibles
@@ -26,7 +26,7 @@
 
 **RAs Relacionats**: RA3 – RA6
 
-## U4. Economia circular i gestió del cicle de vida TIC
+## [U4. Economia circular i gestió del cicle de vida TIC](u4)
 
 * Economia lineal vs. circular en el sector tecnològic
 * Cicle de vida del maquinari i del software
@@ -36,7 +36,7 @@
 
 **RAs Relacionats**: RA4 – RA5
 
-## U5. Plans de sostenibilitat en empreses TIC
+## [U5. Plans de sostenibilitat en empreses TIC](u5)
 
 * Què és un pla de sostenibilitat? Estructura i fases
 * Identificació de grups d'interès en entorns TIC
@@ -44,4 +44,3 @@
 * Estudi de casos reals: Google, Telefónica, Startups sostenibles
 
 **RAs Relacionats**: RA6
-
